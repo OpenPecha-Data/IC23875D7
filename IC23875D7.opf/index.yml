@@ -1,0 +1,11 @@
+id: 5a5182435cde4f319d54fb2a96d7593d
+annotation_type: index
+revision: '00001'
+annotations:
+  39fa3490d63c45b4a5614c225baeaaf3:
+    base: 4AD4.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 17127
